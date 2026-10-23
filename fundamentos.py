@@ -17,6 +17,7 @@ clientes = {}
 historial_ventas = []
 
 def ordenar_inventario_burbuja(diccionario_inventario):
+    # Funcion de ordenamiento implementada por David Cruzado
     productos = list(diccionario_inventario.keys())
     n = len(productos)
     
