@@ -1,15 +1,15 @@
 inventario = {
-    "impresora brother": {"precio": 850.0, "stock": 5},
-    "monitor lenovo 27": {"precio": 650.0, "stock": 10},
-    "notebook advance": {"precio": 1600.0, "stock": 5},
-    "notebook lenovo v15": {"precio": 3350.0, "stock": 3},
-    "monitor teros": {"precio": 525.0, "stock": 8},
-    "antivirus kaspersky": {"precio": 90.0, "stock": 20},
-    "mouse teros": {"precio": 35.0, "stock": 30},
-    "audifonos teros": {"precio": 99.9, "stock": 15},
-    "tinta epson negra": {"precio": 40.0, "stock": 40},
-    "ulefone armor": {"precio": 4350.0, "stock": 5},
-    "oukitel wp33": {"precio": 1700.0, "stock": 7}
+    "impresora brother": {"precio": 1850.0, "stock": 5},
+    "monitor lenovo 27": {"precio": 1650.0, "stock": 10},
+    "notebook advance": {"precio": 11600.0, "stock": 5},
+    "notebook lenovo v15": {"precio": 13350.0, "stock": 3},
+    "monitor teros": {"precio": 1525.0, "stock": 8},
+    "antivirus kaspersky": {"precio": 190.0, "stock": 20},
+    "mouse teros": {"precio": 135.0, "stock": 30},
+    "audifonos teros": {"precio": 199.9, "stock": 15},
+    "tinta epson negra": {"precio":140.0, "stock": 40},
+    "ulefone armor": {"precio": 14350.0, "stock": 5},
+    "oukitel wp33": {"precio": 11700.0, "stock": 7}
 }
 
 clientes = {} 
